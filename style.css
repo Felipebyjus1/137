@@ -1,0 +1,26 @@
+body{
+   background-color: aquamarine;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+canvas{
+    border-style: ridge ;
+}
+h3{
+    background-color: orange;
+    color: black;
+    padding: 15px;
+    width: min-content;
+    border-radius: 15px;
+}
+h2{
+    background-color: orange;
+    color: black;
+    padding: 15px;
+    width: 15cm;
+    border-radius: 15px;
+}
+input{
+    width: 15cm;
+    height: 50px;
+}
